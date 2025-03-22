@@ -9,12 +9,11 @@ This dashboard provides a comprehensive overview of loan distribution, customer 
 ![image](https://github.com/user-attachments/assets/b8c05c40-2538-4b3e-93c6-1d22eb97178f)
 
 
-** Key Metrics **
+**Key Metrics**
 
-Total Loan Amount: 446M | Total Customers: 39717 | Average Interest Rate: 12.02%
+_**Total Loan Amount: 446M | Total Customers: 39717 | Average Interest Rate: 12.02%**_
 
-
-Key Insights:
+**Key Insights:**
 
 * Top Loan Category: Mortgage with a loan amount of 224M.
 * Top Loan Purpose: Debt Consolidation with 236M in loans.
